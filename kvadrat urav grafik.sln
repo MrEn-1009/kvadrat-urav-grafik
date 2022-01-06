@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "kvadrat urav grafik", "kvadrat urav grafik\kvadrat urav grafik.pyproj", "{51F9C82B-1F8C-41C4-B8B2-BE55673DAF9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51F9C82B-1F8C-41C4-B8B2-BE55673DAF9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F9C82B-1F8C-41C4-B8B2-BE55673DAF9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94C07CF2-A577-40A8-8329-E45BA012D0C1}
+	EndGlobalSection
+EndGlobal
